@@ -1,3 +1,3 @@
-name : shamshunnisa
+ shamshunnisa
 rollno : 55
 dept : cs
